@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验</title><link>https://Dhisdream.github.io/crypto.github.io</link><description>Blog description</description><copyright>实验</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Dhisdream.github.io/crypto.github.io</link></image><lastBuildDate>Fri, 18 Oct 2024 05:31:48 +0000</lastBuildDate><managingEditor>实验</managingEditor><ttl>60</ttl><webMaster>实验</webMaster><item><title>密码学实验二</title><link>https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-shi-yan-er.html</link><description># 密码学作业二&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验</title><link>https://Dhisdream.github.io/crypto.github.io</link><description>Blog description</description><copyright>实验</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Dhisdream.github.io/crypto.github.io</link></image><lastBuildDate>Fri, 18 Oct 2024 05:33:52 +0000</lastBuildDate><managingEditor>实验</managingEditor><ttl>60</ttl><webMaster>实验</webMaster><item><title>密码学作业二</title><link>https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-er.html</link><description># 密码学作业二&#13;
+&#13;
+## 实验题目：&#13;
+1.MTC3 AES key — encoded in the machine readable zone of a European ePassport&#13;
+https://www.mysterytwisterc3.org/en/challenges/level-2/aes-key--encoded-in-the-machine-readable-zone-of-a-european-epassport&#13;
+&#13;
+2. http://www.cryptopals.com/sets/2&#13;
+(1) Implement PKCS#7 padding&#13;
+(2) Implement CBC mode&#13;
+(3) An ECB/CBC detection oracle&#13;
+(4) Byte-at-a-time ECB decryption (Simple)&#13;
+(5) ECB cut-and-paste&#13;
+(6) Byte-at-a-time ECB decryption (Harder)&#13;
+(7) PKCS#7 padding validation&#13;
+(8) CBC bit flipping attacks&#13;
+&#13;
+## 题目描述：&#13;
+题目和以往单纯解决问题不同，是基于现实生活中有关欧洲护照上的信息做成的一道挑战题，也提供了相关文档研读，只要跟着相关的论文做就行，是一道重在临时学习的题目。</description><guid isPermaLink="true">https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-er.html</guid><pubDate>Fri, 18 Oct 2024 05:33:29 +0000</pubDate></item><item><title>密码学实验二</title><link>https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-shi-yan-er.html</link><description># 密码学作业二&#13;
 &#13;
 ## 实验题目：&#13;
 1.MTC3 AES key — encoded in the machine readable zone of a European ePassport&#13;
