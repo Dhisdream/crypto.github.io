@@ -1,2 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验</title><link>https://Dhisdream.github.io/crypto.github.io</link><description>Blog description</description><copyright>实验</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Dhisdream.github.io/crypto.github.io</link></image><lastBuildDate>Thu, 17 Oct 2024 16:24:12 +0000</lastBuildDate><managingEditor>实验</managingEditor><ttl>60</ttl><webMaster>实验</webMaster><item><title>密码学作业1</title><link>https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-1.html</link><description>1。</description><guid isPermaLink="true">https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-1.html</guid><pubDate>Thu, 17 Oct 2024 13:20:55 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验</title><link>https://Dhisdream.github.io/crypto.github.io</link><description>Blog description</description><copyright>实验</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Dhisdream.github.io/crypto.github.io</link></image><lastBuildDate>Fri, 18 Oct 2024 03:01:07 +0000</lastBuildDate><managingEditor>实验</managingEditor><ttl>60</ttl><webMaster>实验</webMaster><item><title>密码学作业1</title><link>https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-1.html</link><description># 密码学实验一  &#13;
+&#13;
+## 实验题目：&#13;
+1.	Coursera Dan Boneh Week 1 Program Assignment&#13;
+Many Time Pad &#13;
+2.	PA1 option &#13;
+Write a program that allows you to 'crack' ciphertexts generated using a Vigenere-like cipher, where byte-wise XOR is used instead of addition modulo 26. &#13;
+3.	http://www.cryptopals.com/sets/1&#13;
+(1)	Convert hex to base64&#13;
+(2)	Fixed XOR&#13;
+(3)	Single-byte XOR cipher&#13;
+(4)	Detect single-character XOR&#13;
+(5)	Implement repeating-key XOR&#13;
+(6)	Break repeating-key XOR&#13;
+4.	MTC3 Cracking SHA1-Hashed Passwords&#13;
+https://www.mysterytwisterc3.org/en/challenges/level-2/cracking-sha1-hashed-passwords&#13;
+ &#13;
+&#13;
+## 题目描述：&#13;
+1. 慕课上的编程作业，使用同一个流密码分别对11个明文加密，给出密文，目标是解密最后一个密文&#13;
+&#13;
+2. 编写一个程序，破解使用类似vigenere的密码生成的密文，不用模26，而是使用xor&#13;
+&#13;
+3．一个问题组&#13;
+（1）将16进制字符串转化为base64编码&#13;
+&#13;
+（2）编写一个程序对两个长度相等的字符串进行按位异或的操作&#13;
+&#13;
+（3）解密一个由单个字符进行异或加密的密文&#13;
+&#13;
+（4）给一个用单个字符异或加密的文件，进行解密&#13;
+&#13;
+（5）使用ICE三个字符进行类似维吉尼亚的分组加密&#13;
+&#13;
+（6）要求使用平均汉明距离破解密文，这里的加密方式为分组异或。</description><guid isPermaLink="true">https://Dhisdream.github.io/crypto.github.io/post/mi-ma-xue-zuo-ye-1.html</guid><pubDate>Thu, 17 Oct 2024 13:20:55 +0000</pubDate></item></channel></rss>
